@@ -51,11 +51,5 @@ Em relação ao modelo base do desafio, implementei as seguintes melhorias:
 * **Controle de Integridade:** Adição de uma linha de somatório para auditar financeiramente se o valor distribuído entre os fundos corresponde exatamente ao aporte informado.
 
 ## 📸 Telas da Aplicação
+<img width="885" height="552" alt="Captura de tela 2026-10-29 174737" src="https://github.com/user-attachments/assets/303dc3f2-db22-44e8-9ddd-2609f8d664c9" />
 
-*(Substitua os links abaixo pelos prints da sua planilha funcionando)*
-
-### Visão Geral e Cenários (Perfil Arrojado)
-![Print da Planilha - Arrojado](link-da-imagem-aqui)
-
-### Tabela de Divisão de Aportes
-![Print da Planilha - Divisão](link-da-imagem-aqui)
